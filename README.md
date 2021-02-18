@@ -21,7 +21,7 @@ Keys:
 |         Ctrl          | Makes mouse move faster                   |
 | *Ctrl-Alt-Shift-Num5* | *Exits Program (to be implemented)*       |
 
-## Remarks
+## Remarks/Help
 - You cant use the aforementioned numpad keys while the program is active, aka. when capslock is on the keys are captured.
   - to write numbers with the numpad again just turn off capslock or terminate the program
 - until Ctrl-Alt-Shift-Num5 is implemented use Ctrl-C to close program
